@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prob82",
+            "request": "launch",
+            "mainClass": "Prob82"
+        }
+    ]
+}
